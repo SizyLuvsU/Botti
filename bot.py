@@ -12,7 +12,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 token = (
-    'MTE2NTk1MzE4NDQ5ODQ1NDY0OA.G80X-G.X34OQLCAWhxuurqvow1bNKAFuUAbvZjR4yX2B4')
+    'Your token here')
 prefix = ("!")
 RPC = ("Noutaja made this one ;)")
 
